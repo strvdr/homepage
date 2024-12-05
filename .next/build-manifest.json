@@ -1,0 +1,59 @@
+{
+  "polyfillFiles": [
+    "static/chunks/polyfills-42372ed130431b0a.js"
+  ],
+  "devFiles": [],
+  "ampDevFiles": [],
+  "lowPriorityFiles": [
+    "static/92PTN9UXgnpR9-gd8xBiC/_buildManifest.js",
+    "static/92PTN9UXgnpR9-gd8xBiC/_ssgManifest.js"
+  ],
+  "rootMainFiles": [],
+  "rootMainFilesTree": {},
+  "pages": {
+    "/": [
+      "static/chunks/webpack-90482acf5b5da506.js",
+      "static/chunks/framework-a6b3d2fb26bce5d1.js",
+      "static/chunks/main-eeb5a3811033f7e0.js",
+      "static/chunks/937-ee0c7ff6b2bd12d6.js",
+      "static/chunks/41-f863a9a92ee39f74.js",
+      "static/chunks/pages/index-b42ec09ef73ec56f.js"
+    ],
+    "/404": [
+      "static/chunks/webpack-90482acf5b5da506.js",
+      "static/chunks/framework-a6b3d2fb26bce5d1.js",
+      "static/chunks/main-eeb5a3811033f7e0.js",
+      "static/chunks/937-ee0c7ff6b2bd12d6.js",
+      "static/chunks/pages/404-0b4d772d072de59b.js"
+    ],
+    "/_app": [
+      "static/chunks/webpack-90482acf5b5da506.js",
+      "static/chunks/framework-a6b3d2fb26bce5d1.js",
+      "static/chunks/main-eeb5a3811033f7e0.js",
+      "static/chunks/pages/_app-38f6b2a4959d9ca8.js"
+    ],
+    "/_error": [
+      "static/chunks/webpack-90482acf5b5da506.js",
+      "static/chunks/framework-a6b3d2fb26bce5d1.js",
+      "static/chunks/main-eeb5a3811033f7e0.js",
+      "static/chunks/pages/_error-fde50cb7f1ab27e0.js"
+    ],
+    "/works": [
+      "static/chunks/webpack-90482acf5b5da506.js",
+      "static/chunks/framework-a6b3d2fb26bce5d1.js",
+      "static/chunks/main-eeb5a3811033f7e0.js",
+      "static/chunks/937-ee0c7ff6b2bd12d6.js",
+      "static/chunks/41-f863a9a92ee39f74.js",
+      "static/chunks/pages/works-f2083a1b69efee1e.js"
+    ],
+    "/works/kirin": [
+      "static/chunks/webpack-90482acf5b5da506.js",
+      "static/chunks/framework-a6b3d2fb26bce5d1.js",
+      "static/chunks/main-eeb5a3811033f7e0.js",
+      "static/chunks/937-ee0c7ff6b2bd12d6.js",
+      "static/chunks/41-f863a9a92ee39f74.js",
+      "static/chunks/pages/works/kirin-be41523efc60cb1e.js"
+    ]
+  },
+  "ampFirstPages": []
+}
